@@ -29,8 +29,20 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 | Kelas | TI - 3I |
 
 
-### Jawaban Soal 1
+### Jawaban Praktikum 1
 
 ![Screenshot](public/images/01.png)
+
+### Jawaban Praktikum 2
+
+![Screenshot](public/images/02.png)
+![Screenshot](public/images/03.png)
+### Soal 
+Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 untuk menangani routing?
+- Tidak terlalu efisien dalam penambahan nested routing
+
+
+
+
 
 
