@@ -9,6 +9,8 @@ export default function Home() {
             <Link rel="stylesheet" href="/profile">Profile</Link>
             <br />
             <Link rel="stylesheet" href="/blogs">Blogs</Link>
+            <br />
+            <Link rel="stylesheet" href="/products">Product</Link>
         </div>
     );
   }

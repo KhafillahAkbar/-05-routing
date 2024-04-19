@@ -41,6 +41,12 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 untuk menangani routing?
 - Tidak terlalu efisien dalam penambahan nested routing
 
+### Jawaban Praktikum 3
+
+![Screenshot](public/images/05.png)
+
+
+
 
 
 
