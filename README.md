@@ -45,6 +45,10 @@ Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2
 
 ![Screenshot](public/images/05.png)
 
+### Jawaban Praktikum 4
+
+![Screenshot](public/images/06.png)
+
 
 
 
